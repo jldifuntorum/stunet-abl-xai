@@ -1,0 +1,15 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+
+data/
+checkpoints/
+results/
+figures/
+
+*.pt
+*.pth
+*.npy
+*.npz
+*.zip
