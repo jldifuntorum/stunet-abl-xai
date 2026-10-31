@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite this software release and the associated Zenodo dataset."
+title: "STUNet: atmospheric boundary-layer prediction and explainability analysis"
+type: software
+authors:
+  - family-names: Difuntorum
+    given-names: John Keithley
+  - family-names: Katurji
+    given-names: Marwan
+  - family-names: Zhang
+    given-names: Jiawei
+  - family-names: Zawar-Reza
+    given-names: Peyman
+license: MIT
+version: 1.0.0
+keywords:
+  - atmospheric boundary layer
+  - deep learning
+  - explainable AI

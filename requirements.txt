@@ -1,0 +1,6 @@
+numpy>=1.24,<3
+torch>=2.3
+scikit-image>=0.21
+pandas>=2.0
+matplotlib>=3.7
+pytest>=8.0
